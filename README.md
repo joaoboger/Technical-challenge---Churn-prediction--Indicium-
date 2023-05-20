@@ -43,8 +43,3 @@ python pipeline/churn_pipeline.py
    - Locate the output predictions file named `predictions.csv`.
    - Find the `predictions.csv` file in the `output` directory within the repository.
    - The file will have two columns: the first column represents the row numbers, and the second column contains the predicted churn values.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
