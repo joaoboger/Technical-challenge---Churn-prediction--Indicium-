@@ -2,7 +2,7 @@ import pandas as pd
 import pickle
 
 # Load the fitted pipeline from the file
-with open('../output/fitted_pipeline.pkl', 'rb') as file:
+with open('../fitted_pipeline.pkl', 'rb') as file:
     pipeline = pickle.load(file)
 
 # Load the data to be predicted from the CSV file
