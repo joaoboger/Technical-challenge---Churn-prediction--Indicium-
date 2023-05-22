@@ -29,7 +29,7 @@ git clone https://github.com/joaoboger/TechnicalChallenge-ChurnPrediction
 2. Prepare os dados de entrada:
    - Renomeie o arquivo de dados desejado a ser previsto como `Abandono_teste.csv`.
    - Mova o arquivo `Abandono_teste.csv` para o diretório `data` dentro do repositório.
-   - Instale as dependências necessárias executando o seguinte comando para instalar a versão específica das bibliotecas:
+   - Instale as dependências necessárias executando o seguinte comando para instalar a versão específica das bibliotecas, certifique-se de ter o Python instalado (versão 3.9.13):
 
 ```bash
 pip install -r requirements.txt
